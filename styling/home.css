@@ -1,6 +1,6 @@
 
 .intro{
-  background-image: url(/images/DontQuit.jpg);
+  background-image: url(../images/DontQuit.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -126,7 +126,7 @@
 }
 
 .choose{
-  background-image: url(/images/system\ \(2\).jpg);
+  background-image: url(../images/system\ \(2\).jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -319,4 +319,5 @@
       }
   .logo-links a:hover{
   cursor:pointer;
+
  }
